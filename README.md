@@ -1,2 +1,2 @@
-# Instagram-clone
-Instagram Clone Using HTML &amp; CSS (no CSS frameworks)
+# Painting_Board
+Created with CodeSandbox
